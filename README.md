@@ -8,9 +8,9 @@ Assistente de terminal, feito em Python, que orienta **pessoas idosas** sobre sa
 
 | Nome | RM |
 |------|----|
-| _preencher_ | _preencher_ |
-| _preencher_ | _preencher_ |
-| _preencher_ | _preencher_ |
+| Otávio Mancilia | 570225 |
+| Wesley Marques | 573915 |
+| Tiago Muhlmann | 569569 |
 
 ## Público e problema
 
@@ -99,7 +99,7 @@ Como contamos: um atendimento termina quando a pessoa responde "s" (ajudou) ou d
 
 ## Integrações com outras disciplinas
 
-Nenhuma. _(Se a equipe integrar algo, descreva aqui.)_
+Nenhuma.
 
 ## Fontes consultadas
 
