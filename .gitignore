@@ -8,3 +8,4 @@ __pycache__/
 
 # Cópia de segurança criada quando o histórico está corrompido
 data/historico.json.corrompido
+.venv/

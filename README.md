@@ -117,16 +117,21 @@ Todas as orientações estão em `data/base_conhecimento.json`, cada uma com `fo
 
 ## Resultado do teste com usuários
 
-> _Preencher depois do teste: pelo menos 3 pessoas de fora da equipe e 10 atendimentos ou mais. Não registrar nomes nem dados dessas pessoas._
+Testamos com **3 pessoas de fora da equipe**, em **11 atendimentos** (nenhum nome ou dado pessoal foi registrado). Os dados completos estão em `data/historico.json` e `data/atendimentos.csv`.
 
-- Pessoas testadas: _N_ · Atendimentos: _N_
-- Resposta encontrada (%): _
-- Taxa de acerto (%): _
-- Tempo médio para encontrar: _ s
-- Tentativas por atendimento: _
-- Facilidade de uso (1 a 5): _
-- Dúvidas sem solução: _
-- **Melhoria feita a partir do teste:** _(ex.: nova palavra-chave X adicionada à orientação Y)_
+| Indicador | Resultado |
+|-----------|-----------|
+| Resposta encontrada (%) | 81,8 |
+| Taxa de acerto: ajudou (%) | 81,8 |
+| Tempo médio para encontrar | 53,5 s |
+| Tentativas por atendimento | 1,5 |
+| Facilidade de uso (1 a 5) | 4,3 (3 avaliações: 5, 3 e 5) |
+
+**Dúvidas sem solução:** "Como pagar menos no cinema?" e "Quero ir até Paris". As duas estão fora do tema da base, e o assistente respondeu "não encontrei" em vez de inventar.
+
+**O que o teste mostrou:** em 4 dos 11 atendimentos a pessoa precisou de mais de uma tentativa. Também vimos que o indicador de acerto depende da opinião de quem usa: a pergunta "Quero viajar de ônibus para outro estado sem pagar" trouxe a orientação 5 (ônibus urbano, 65+) em vez da 6 (passagem interestadual), e mesmo assim a pessoa marcou que ajudou.
+
+**Melhoria feita a partir do teste:** nessa pergunta, as duas orientações empataram com 4 pontos e o desempate (menor `id`) escolheu a errada. Acrescentamos a palavra-chave `viajar de onibus` na orientação 6. Agora a mesma pergunta soma 7 pontos e traz a orientação certa, e as outras perguntas do teste continuam com o mesmo resultado.
 
 ## Limitações
 

@@ -1,1 +1,12 @@
 data,sessao,origem,pergunta,orientacao_id,encontrou,ajudou,tentativas,tempo_s,nota_facilidade
+2026-11-07 18:43:24,20261107-184058,pergunta,"eu tenho uma tia de 70 anos , como posso fazer para ela andar de onibus de de graça",5,True,True,1,75.9,5
+2026-11-07 18:44:26,20261107-184058,pergunta,"alguem me ligou e diz ser do INSS e pediu dinheiro , oque fazer ?",9,True,True,1,58.6,5
+2026-11-07 18:45:19,20261107-184058,pergunta,Como denunciar maus-tratos contra um idoso?,8,True,True,3,52.5,5
+2026-11-07 18:46:07,20261107-184058,pergunta,Quero viajar de ônibus para outro estado sem pagar.,5,True,True,1,46.3,5
+2026-11-07 18:46:13,20261107-184058,pergunta,Como pagar menos no cinema?,,False,False,1,4.7,5
+2026-11-07 18:48:32,20261107-184058,pergunta,Cartao do SUS,1,True,True,2,56.6,5
+2026-11-07 18:49:57,20261107-184927,pergunta,Quero ir ate Paris,,False,False,1,11.3,3
+2026-11-07 18:50:14,20261107-184927,pergunta,Como receber o cartão do sus,1,True,True,1,15.7,3
+2026-11-07 18:51:07,20261107-184927,pergunta,"Sou uma pessoa de 70 anos , posso andar de onibus de graça ?",5,True,True,1,48.8,3
+2026-11-07 18:52:23,20261107-185117,pergunta,Onibus de graça como?,5,True,True,2,63.0,5
+2026-11-07 18:53:29,20261107-185117,pergunta,"O INSS me ligou pedindo dinheiro , devo dar o dinheiro ?",9,True,True,3,64.3,5

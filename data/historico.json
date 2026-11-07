@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "data": "2026-11-07 18:43:24",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "eu tenho uma tia de 70 anos , como posso fazer para ela andar de onibus de de graça",
+    "orientacao_id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 75.9,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:44:26",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "alguem me ligou e diz ser do INSS e pediu dinheiro , oque fazer ?",
+    "orientacao_id": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 58.6,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:45:19",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "Como denunciar maus-tratos contra um idoso?",
+    "orientacao_id": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_s": 52.5,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:46:07",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "Quero viajar de ônibus para outro estado sem pagar.",
+    "orientacao_id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 46.3,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:46:13",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "Como pagar menos no cinema?",
+    "orientacao_id": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_s": 4.7,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:48:32",
+    "sessao": "20261107-184058",
+    "origem": "pergunta",
+    "pergunta": "Cartao do SUS",
+    "orientacao_id": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_s": 56.6,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:49:57",
+    "sessao": "20261107-184927",
+    "origem": "pergunta",
+    "pergunta": "Quero ir ate Paris",
+    "orientacao_id": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_s": 11.3,
+    "nota_facilidade": 3
+  },
+  {
+    "data": "2026-11-07 18:50:14",
+    "sessao": "20261107-184927",
+    "origem": "pergunta",
+    "pergunta": "Como receber o cartão do sus",
+    "orientacao_id": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 15.7,
+    "nota_facilidade": 3
+  },
+  {
+    "data": "2026-11-07 18:51:07",
+    "sessao": "20261107-184927",
+    "origem": "pergunta",
+    "pergunta": "Sou uma pessoa de 70 anos , posso andar de onibus de graça ?",
+    "orientacao_id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 48.8,
+    "nota_facilidade": 3
+  },
+  {
+    "data": "2026-11-07 18:52:23",
+    "sessao": "20261107-185117",
+    "origem": "pergunta",
+    "pergunta": "Onibus de graça como?",
+    "orientacao_id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_s": 63.0,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-07 18:53:29",
+    "sessao": "20261107-185117",
+    "origem": "pergunta",
+    "pergunta": "O INSS me ligou pedindo dinheiro , devo dar o dinheiro ?",
+    "orientacao_id": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_s": 64.3,
+    "nota_facilidade": 5
+  }
+]

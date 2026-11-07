@@ -58,7 +58,7 @@
     "id": 6,
     "categoria": "Transporte",
     "titulo": "Viajar de graça entre estados (passagem interestadual)",
-    "palavras_chave": ["passagem gratis", "viajar de graca", "interestadual", "onibus interestadual", "passagem interestadual", "viagem gratuita", "passe livre", "desconto na passagem", "outro estado", "entre estados"],
+    "palavras_chave": ["passagem gratis", "viajar de graca", "interestadual", "onibus interestadual", "passagem interestadual", "viagem gratuita", "passe livre", "desconto na passagem", "outro estado", "entre estados", "viajar de onibus"],
     "resposta": "Pessoas com 60 anos ou mais e renda de até 2 salários mínimos têm direito a 2 vagas gratuitas por veículo no transporte interestadual convencional. Quando as vagas gratuitas acabam, há desconto de pelo menos 50% na passagem. É preciso apresentar documento que comprove a idade e a renda. Em caso de dúvida, a Ouvidoria da ANTT atende pelo telefone 166.",
     "documentos": ["Documento pessoal que comprove a idade (60 anos ou mais)", "Documento que comprove renda de até 2 salários mínimos"],
     "onde": "Empresa de transporte interestadual (consulte a empresa); dúvidas na Ouvidoria da ANTT, telefone 166",
