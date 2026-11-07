@@ -97,10 +97,6 @@ Indicadores exibidos: resposta encontrada (%), taxa de acerto/ajudou (%), tempo 
 
 Como contamos: um atendimento termina quando a pessoa responde "s" (ajudou) ou digita 0 depois de tentar. As tentativas são as perguntas digitadas até esse ponto. O tempo inclui a leitura da resposta.
 
-## Integrações com outras disciplinas
-
-Nenhuma.
-
 ## Fontes consultadas
 
 Todas as orientações estão em `data/base_conhecimento.json`, cada uma com `fonte` e `verificado_em`.
