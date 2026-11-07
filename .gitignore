@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Configurações do PyCharm / VS Code (só do seu computador)
+.idea/
+.vscode/
+
+# Cópia de segurança criada quando o histórico está corrompido
+data/historico.json.corrompido

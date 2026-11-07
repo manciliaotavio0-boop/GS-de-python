@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer ou consultar o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "cartao nacional de saude"],
+    "resposta": "Você pode ver ou baixar o seu Cartão SUS no app ou no site Meu SUS Digital: entre com a conta gov.br, abra 'Meu Perfil' e toque em 'Cartão Nacional de Saúde'. Se preferir, procure uma UBS ou a Secretaria Municipal de Saúde da sua cidade. Cada município pode pedir documentos diferentes, então confirme antes de ir.",
+    "documentos": ["Documento de identificação com foto", "CPF"],
+    "onde": "Aplicativo ou site Meu SUS Digital, ou uma UBS / Secretaria Municipal de Saúde",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/cns",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Tomar a vacina contra a gripe (60 anos ou mais)",
+    "palavras_chave": ["vacina da gripe", "vacina gripe", "vacina", "vacinacao", "influenza", "gripe"],
+    "resposta": "Pessoas com 60 anos ou mais fazem parte do grupo prioritário para tomar a vacina contra a gripe (influenza) nas UBS e salas de vacina. As datas e os horários mudam em cada cidade, então ligue ou passe na UBS mais perto de casa antes de ir. Leve a caderneta de vacinação, se tiver.",
+    "documentos": ["Documento de identificação com foto", "CPF ou Cartão SUS", "Caderneta de vacinação (se tiver)"],
+    "onde": "UBS ou sala de vacina do seu município",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/programa-nacional-de-imunizacoes-vacinacao",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Ver a carteira de vacinação digital no Meu SUS Digital",
+    "palavras_chave": ["carteira de vacinacao", "caderneta digital", "vacinacao digital", "meu sus digital", "conecte sus", "app do sus"],
+    "resposta": "No app ou no site Meu SUS Digital, com o login da conta gov.br, você consulta a carteira de vacinação digital e outras informações de saúde, como os medicamentos que já retirou. O app é gratuito e existe para Android e iPhone.",
+    "documentos": ["Conta gov.br", "Celular com internet ou computador"],
+    "onde": "Aplicativo ou site Meu SUS Digital",
+    "fonte": "https://meususdigital.saude.gov.br/login",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Saúde",
+    "titulo": "Retirar remédios gratuitos e fraldas geriátricas (Farmácia Popular)",
+    "palavras_chave": ["farmacia popular", "remedio gratis", "remedio gratuito", "remedio de graca", "remedios", "medicamento gratuito", "medicamentos gratuitos", "fralda geriatrica", "fraldas geriatricas"],
+    "resposta": "Vá a uma farmácia com o selo 'Aqui Tem Farmácia Popular' levando a receita médica dentro da validade (do SUS ou particular). Não é preciso ser de baixa renda nem estar no CadÚnico. Fraldas geriátricas são para pessoas com mais de 60 anos e exigem prescrição, laudo ou atestado médico. Se você não puder ir, outra pessoa pode retirar por você levando a receita e o documento com foto e CPF dela e o seu.",
+    "documentos": ["Documento oficial com foto e CPF", "Receita médica dentro da validade", "Prescrição, laudo ou atestado médico (só para fraldas geriátricas)"],
+    "onde": "Farmácias com o selo 'Aqui Tem Farmácia Popular'",
+    "fonte": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2023/farmacia-popular/",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Transporte",
+    "titulo": "Andar de graça no ônibus urbano (65 anos ou mais)",
+    "palavras_chave": ["onibus", "onibus gratis", "onibus gratuito", "transporte gratuito", "gratuidade", "transporte publico"],
+    "resposta": "Quem tem 65 anos ou mais tem direito ao transporte coletivo público urbano e semiurbano gratuito, e basta mostrar um documento pessoal que comprove a idade. A regra não vale para serviços seletivos e especiais quando eles funcionam junto com os serviços comuns. Entre 60 e 64 anos, a gratuidade só existe se a lei da sua cidade ou do seu estado permitir. Para saber como funciona na sua cidade, procure a empresa de transporte ou a prefeitura.",
+    "documentos": ["Documento pessoal que comprove a idade"],
+    "onde": "No ônibus ou na empresa/órgão de transporte da sua cidade",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Transporte",
+    "titulo": "Viajar de graça entre estados (passagem interestadual)",
+    "palavras_chave": ["passagem gratis", "viajar de graca", "interestadual", "onibus interestadual", "passagem interestadual", "viagem gratuita", "passe livre", "desconto na passagem", "outro estado", "entre estados"],
+    "resposta": "Pessoas com 60 anos ou mais e renda de até 2 salários mínimos têm direito a 2 vagas gratuitas por veículo no transporte interestadual convencional. Quando as vagas gratuitas acabam, há desconto de pelo menos 50% na passagem. É preciso apresentar documento que comprove a idade e a renda. Em caso de dúvida, a Ouvidoria da ANTT atende pelo telefone 166.",
+    "documentos": ["Documento pessoal que comprove a idade (60 anos ou mais)", "Documento que comprove renda de até 2 salários mínimos"],
+    "onde": "Empresa de transporte interestadual (consulte a empresa); dúvidas na Ouvidoria da ANTT, telefone 166",
+    "fonte": "https://www.gov.br/antt/pt-br/assuntos/passageiros/viajantes/cartilhas/cartilha-do-idoso.pdf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Proteção e direitos",
+    "titulo": "Ter atendimento prioritário em filas e serviços",
+    "palavras_chave": ["atendimento prioritario", "atendimento preferencial", "fila preferencial", "prioridade", "fila", "prioridade especial", "80 anos"],
+    "resposta": "A partir dos 60 anos, a pessoa idosa tem direito a atendimento preferencial, imediato e individualizado, em órgãos públicos e em empresas que prestam serviços à população. Quem tem mais de 80 anos tem prioridade especial, até sobre os outros idosos, e nos atendimentos de saúde isso vale exceto em emergências. Também há prioridade na restituição do Imposto de Renda.",
+    "documentos": ["Documento pessoal que comprove a idade"],
+    "onde": "Órgãos públicos, bancos, lojas e outros serviços ao público",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Proteção e direitos",
+    "titulo": "Denunciar violência ou maus-tratos contra a pessoa idosa (Disque 100)",
+    "palavras_chave": ["disque 100", "maus tratos", "violencia contra idoso", "denunciar", "denuncia", "agressao", "agredido", "agredida", "abandono", "negligencia"],
+    "resposta": "Ligue 100 (Disque Direitos Humanos). A ligação é gratuita, sigilosa e funciona 24 horas por dia, e qualquer pessoa pode denunciar. As denúncias de violência contra pessoas idosas têm prioridade no atendimento. Se houver perigo agora, ligue 190 (Polícia Militar).",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "Telefone 100 (Disque Direitos Humanos); em perigo imediato, telefone 190",
+    "fonte": "https://www.gov.br/secom/pt-br/assuntos/noticias/2025/06/denuncias-de-violencia-contra-idosos-terao-prioridade-no-disque-100",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Proteção e direitos",
+    "titulo": "Evitar golpes que usam o nome do INSS",
+    "palavras_chave": ["golpe", "golpe do inss", "fraude", "ligacao do inss", "mensagem do inss", "sms do inss", "pedindo dinheiro", "pediu dinheiro", "ligacao falsa"],
+    "resposta": "O INSS não liga, não manda link e não pede dinheiro, senha, fotos de documentos ou dados pessoais. O SMS oficial do INSS vem do número 280-41 e nunca traz links. Se receber um contato suspeito, desligue, não responda e confirme pelo app Meu INSS ou pelo telefone 135. Denuncie tentativas de golpe na Ouvidoria do INSS ou pelo 135.",
+    "documentos": ["Nenhum documento é necessário"],
+    "onde": "App ou site Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/inss/pt-br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Benefícios e INSS",
+    "titulo": "Pedir o BPC (1 salário mínimo para idoso de baixa renda)",
+    "palavras_chave": ["bpc", "loas", "beneficio assistencial", "prestacao continuada", "nunca contribui", "nao tenho aposentadoria"],
+    "resposta": "O BPC paga 1 salário mínimo por mês a quem tem 65 anos ou mais e baixa renda: a renda da família dividida pelo número de pessoas deve ser de até 1/4 do salário mínimo. É preciso estar no Cadastro Único (CadÚnico), com os dados atualizados, que é feito no CRAS. O pedido é feito no Meu INSS, pelo telefone 135 ou em uma agência do INSS. Não é necessário ter contribuído para o INSS. O BPC não é aposentadoria: não paga 13º salário nem deixa pensão por morte.",
+    "documentos": ["Documento de identificação com foto", "CPF", "Cadastro Único (CadÚnico) atualizado"],
+    "onde": "Meu INSS (app ou site), telefone 135 ou agência do INSS; CadÚnico no CRAS",
+    "fonte": "https://www.gov.br/inss/pt-br/media/cartilha-bpc_atualizado-novembro-2024.pdf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 11,
+    "categoria": "Benefícios e INSS",
+    "titulo": "Fazer a prova de vida do INSS",
+    "palavras_chave": ["prova de vida", "provar que estou vivo", "biometria do inss", "beneficio bloqueado", "bloqueio do beneficio", "reconhecimento facial", "aposentado bloqueado"],
+    "resposta": "O INSS pode confirmar automaticamente que você está vivo, usando registros oficiais com biometria, e por isso muita gente não precisa fazer nada. Se o INSS avisar que há pendência, regularize pelo app Meu INSS ou Meu gov.br (reconhecimento facial), no banco onde recebe o benefício ou em uma agência. Consulte a sua situação no Meu INSS. O INSS não cobra nada por isso, e ninguém pode pedir dinheiro para fazer a prova de vida.",
+    "documentos": ["Conta gov.br", "Documento de identificação com foto (para ir ao banco ou à agência)"],
+    "onde": "App Meu INSS ou Meu gov.br, banco onde recebe o benefício ou agência do INSS",
+    "fonte": "https://www.gov.br/inss/pt-br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 12,
+    "categoria": "Benefícios e INSS",
+    "titulo": "Bloquear empréstimo consignado no Meu INSS",
+    "palavras_chave": ["consignado", "emprestimo consignado", "bloquear emprestimo", "bloquear consignado", "desconto indevido", "desconto no beneficio", "emprestimo no inss"],
+    "resposta": "No Meu INSS (site ou app) existe a opção de bloquear a contratação de empréstimos consignados no seu benefício. Entre com CPF e senha da conta gov.br e procure o serviço de bloqueio de consignado. Se quiser contratar depois, procure a instituição financeira pelos canais oficiais ou uma agência. Confira todo mês o extrato do benefício para ver se há descontos que você não reconhece.",
+    "documentos": ["Conta gov.br"],
+    "onde": "Meu INSS (site meu.inss.gov.br ou aplicativo)",
+    "fonte": "https://meu.inss.gov.br",
+    "verificado_em": "2026-11-05"
+  }
+]
