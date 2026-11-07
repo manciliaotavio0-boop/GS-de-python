@@ -8,9 +8,9 @@ Assistente de terminal, feito em Python, que orienta **pessoas idosas** sobre sa
 
 | Nome | RM |
 |------|----|
-| _preencher_ | _preencher_ |
-| _preencher_ | _preencher_ |
-| _preencher_ | _preencher_ |
+| Tiago Muhlmann | 569569 |
+| Wesley Marques | 573915 |
+| Otávio Mancilia | 570225 |
 
 ## Público e problema
 
