@@ -140,4 +140,4 @@ Testamos com **3 pessoas de fora da equipe**, em **11 atendimentos** (nenhum nom
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): _colar aqui_
+https://youtu.be/PCYWJLImlbA?is=Uo5jmMNezTrzqH6g
